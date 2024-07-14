@@ -1,0 +1,10 @@
+{
+  "additionalFiles": "",
+  "builtInLibrariesFolders": "C:\\Users\\qgb\\AppData\\Local\\Arduino15\\libraries",
+  "compiler.optimization_flags": "-Og -g",
+  "customBuildProperties": "build.warn_data_percentage=75",
+  "fqbn": "STMicroelectronics:stm32:GenF1:pnum=BLUEPILL_F103C6,xserial=generic,usb=none,xusb=FS,opt=osstd,dbg=none,rtlib=nano,upload_method=swdMethod",
+  "hardwareFolders": "c:\\Users\\qgb\\AppData\\Local\\Arduino15\\packages",
+  "otherLibrariesFolders": "c:\\QGB\\arduino-ide_nightly-20240630_Windows_64bit\\qgb\\libraries",
+  "sketchLocation": "C:\\Users\\qgb\\Documents\\Arduino\\stm32_arduino"
+}
